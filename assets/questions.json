@@ -1,0 +1,117 @@
+[
+    {
+        "libele" : "Doit on se faire tester si on envisage une vie de couple ?",
+        "rep" : true,
+        "explications" : "Si vous n'avez jamais fait de test, si vous ne vous protegez pas lors de vos raports, si vous envisagez une vie de couple ou si vous vous droguez en intraveineuse, il est préférable de se faire tester."
+    },
+    {
+        "libele" : "On peut s'auto-tester pour le VIH ?",
+        "rep" : true,
+        "explications" : "L'auto-test est une alternative au test ELISA et TROD, les résultats sont communiqués en 12 semaines."
+    },
+    {
+        "libele" : "Si mon partenaire m'a pratiqué une felation, je peux être séropositif ?",
+        "rep" : false,
+        "explications" : "Il n'y a pas de risque de contagion dans ce cas."
+    },
+    {
+        "libele" : "Si j'ai pratiqué une felation, je peut être séropostive ?",
+        "rep" : true,
+        "explications" : "Effectivement, il y a un risque de contagion si je pratique une felation."
+    },
+    {
+        "libele" : "La transmission du VIH est automatique lors de rapports non protégés avec une personne postive ?",
+        "rep" : false,
+        "explications" : "La transmission n'est pas automatique, elle peut se faire dès le premier rapport, au bout de plusieurs ou même jamais."
+    },
+    {
+        "libele" : "Les risques de transmissions du VIH sont nul s'il est indetectable depuis 6 mois ?",
+        "rep" : true,
+        "explications" : "Après 6 mois ou plus de charge virale indetectable, il n'y a plus de risque de transmission"
+    },
+    {
+        "libele" : "S'il n'y a qu'un début de pénétration, je risque quand même d'attraper le VIH ?",
+        "rep" : true,
+        "explications" : "Un simple début de pénétration suffit."
+    },
+    {
+        "libele" : "Il y a risque de transmission du VIH lors de pénétration anale sans capote ?",
+        "rep" : true,
+        "explications" : "Les 2 partenaires sont sujet à risque."
+    },
+    {
+        "libele" : "Il y a risque de transmission du VIH lors de pénétration vaginale sans capote ?",
+        "rep" : true,
+        "explications" : "Le risque est pour les 2 partenaires et augmente pour la femme en cas d'éjaculation."
+    },
+    {
+        "libele" : "Il y a risque de transmission du VIH lors d'un cunilingus ?",
+        "rep" : false,
+        "explications" : "Pas de risque de VIH mais d'autre maladie peuvent être transmises."
+    },
+    {
+        "libele" : "Il y a risque de transmission du VIH lors d'un anulingus ?",
+        "rep" : false,
+        "explications" : "Pas de risque de VIH mais d'autre maladie peuvent être transmises."
+    },
+    {
+        "libele" : "Il y a risque de transmission du VIH lors du partage de la salive ?",
+        "rep" : false,
+        "explications" : "Pas de risque de VIH mais d'autre maladie peuvent être transmises."
+    },
+    {
+        "libele" : "Il y a risque de transmission du VIH lors de l'utilisation d'un sextoy utilisé ?",
+        "rep" : true,
+        "explications" : "Si la précédente utilisation a été faite par une personne seropositive, il y a une risque de contagion."
+    },
+    {
+        "libele" : "Si je reçois du sperme dans l'oeil, j'ai un risque de transmission du VIH ?",
+        "rep" : false,
+        "explications" : "Il n'y a pas de risque"
+    },
+    {
+        "libele" : "En cas de séropositivité, je dois le signaler à mon employeur ?",
+        "rep" : false,
+        "explications" : "La loi française précise que l'employeur ne peut pas demander la séropositivité d'un employé"
+    },
+    {
+        "libele" : "J'ai des plaies aux doigts et je pratique un doigté, je risque d'attraper le VIH ?",
+        "rep" : false,
+        "explications" : "Des petites plaies sur les doits ne comportent pas de risques de contamination."
+    },
+    {
+        "libele" : "Je suis un père positif au VIH, je peux le transmettre à mon enfant ?",
+        "rep" : false,
+        "explications" : "Seul la mère peut transmettre le VIH à l'enfant, c'est pourquoi il existe des traitements préventifs."
+    },
+    {
+        "libele" : "Les moustiques peuvent transmettre le VIH ?",
+        "rep" : false,
+        "explications" : "Les moustiques aspirent du sang mais n'en rejettent pas, il peuvent donc transmettre le paludisme mais pas le VIH."
+    },
+    {
+        "libele" : "Aujourd'hui, on ne meurt plus du sida ?",
+        "rep" : false,
+        "explications" : "Malheuresment, encore aujourd'hui de nombreuses personnes décèdent de cette maladie."
+    },
+    {
+        "libele" : "Le premier rapport sexuel protège contre le sida ?",
+        "rep" : false,
+        "explications" : "Et non, il ne protège pas plus que n'importe quel autre"
+    },
+    {
+        "libele" : "La pillule protège du sida ?",
+        "rep" : false,
+        "explications" : "Non, la pillule ne protège pas du sida."
+    },
+    {
+        "libele" : "Deux capotes protègent mieux qu'une seul ?",
+        "rep" : false,
+        "explications" : "Non, une seule capote reste le plus efficace."
+    }
+    
+]
+
+
+
+
